@@ -1,10 +1,15 @@
 # Коллективный блог про ИТ без хайпа
 
-flex
-====
+## Gaya Jekyll Theme
 
-Flex is a responsive, flexible, [Jekyll](http://jekyllrb.com) theme.
+Modern responsive theme made for jekyll blogging platform. 
+Gaya is a simple theme build from ground up with the focus of performance. 
+The theme itself quickly adapts to the users device, so it looks great on 
+smartphones, tablets, desktops or even the large monitors.
 
-The theme is based on the website [The Development](http://thedevelopment.co).
+- Ability to change theme color at any time with any color.
+- Easy customizable menu navigation.
+- SEO Friendly
+- Embed image, YouTube/Vimeo video or SoundCloud audio to your post.
 
-View a demo website [here](http://the-development.github.io/flex/).
+---
