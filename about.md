@@ -1,24 +1,16 @@
 ---
 layout: page
-title: About me
-permalink: /about/
-banner_image: sample-banner-image-2.jpg
-banner_image_alt: About me
+title: О проекте
 ---
 
-Hi, I am Tom Warlker. I am a professional UI/UX designrer and web developer. I love being minimal and creative.
+Коллективный (надеюсь) блог для статей об ИТ.
 
-I prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+## Зачем еще один блог про ИТ?
 
-### Contact me
+Не для конкуренции с хабром и его производными. Тут планируется размещать *только* технические статьи,
+без переводов и копипасты. Это нельзя назвать порталом - статьи могут приниматься исключительно как pull request'ы,
+поэтому от автора требуется как минимум знание git (ну, или интерфейса гитхаба :)).
 
-Say `Hello` at gayanvirajith@gmail.com or find
-me on
-
----
-
-{% include social.html %}
-
-[pw]: http://processwire.com
-[jekyll]: http://jekyllrb.com
+Если не указано обратное, все статьи распространяются под CC-BY-NC-ND (Самая строгая из Creative Commons лицензий
+- обязательно указывать автора конента, нельзя коммерчески использовать контент, нельзя распространять производные работы).
+![CC-BY-NC-ND](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
